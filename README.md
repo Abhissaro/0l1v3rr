@@ -1,7 +1,7 @@
 ## Hi, I'm Olivér 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=0l1v3rr)
 
-#### Languages:
+### Languages:
 <img alt="Java" align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C#" align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="PHP" align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -10,6 +10,7 @@
 <img alt="CSS3" align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
+<br>
 <br>
 
 ### Github Stats:
