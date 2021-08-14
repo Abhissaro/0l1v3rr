@@ -14,6 +14,6 @@
 <br>
 
 ### GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=0l1v3rr&&show_icons=true&title_color=3498db&icon_color=3498db&text_color=ecf0f1&border_color=30363d&bg_color=0d1117&hide=prs,issues">
+<img src="https://github-readme-stats.vercel.app/api?username=0l1v3rr&&show_icons=true&title_color=3498db&icon_color=3498db&text_color=ecf0f1&border_color=30363d&bg_color=0d1117">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&hide=Batchfile&langs_count=6&title_color=ffffff&icon_color=3498db&text_color=ecf0f1&border_color=30363d&bg_color=0d1117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
