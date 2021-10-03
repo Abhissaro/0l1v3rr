@@ -43,8 +43,8 @@
 
 ## <p align="center">👑 GitHub Stats 👑</p>
 <p align="center">
-  <img width="470px" src="https://github-readme-stats.vercel.app/api?username=0l1v3rr&&show_icons=true&title_color=15f3ec&icon_color=15f3ec&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Stats" title="Stats">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="470px" src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=0D1117&border=30363d&stroke=30363d&dates=8b949e&sideNums=15f3ec&sideLabels=15f3ec&currStreakNum=deac2f" alt="GitHub Streak" title="GitHub Streak">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=0l1v3rr&&show_icons=true&title_color=15f3ec&icon_color=15f3ec&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Stats" title="Stats">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=0D1117&border=30363d&stroke=30363d&dates=8b949e&sideNums=15f3ec&sideLabels=15f3ec&currStreakNum=deac2f" alt="GitHub Streak" title="GitHub Streak">
 </p>
 
 <p align="center">
