@@ -44,6 +44,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=0D1117&border=30363d&stroke=30363d&dates=8b949e&sideNums=15f3ec&sideLabels=15f3ec&currStreakNum=deac2f" alt="GitHub Streak" title="GitHub Streak">
 </p>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=0l1v3rr&border_color=30363d&bg_color=0d1117&color=8b949e&line=15f3ec&custom_title=Contributions" alt="Activity Graph" title="Activity Graph">
+</p>
+
 <hr>
 
 ## <p align="center">📌 Open Source Projects 📌</p>
