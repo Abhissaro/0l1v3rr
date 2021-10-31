@@ -24,7 +24,7 @@
 ## <p align="center">👑 GitHub Stats 👑</p>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&langs_count=8&title_color=15f3ec&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2" alt="Top Languages" title="Top Languages">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&langs_count=10&title_color=15f3ec&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2" alt="Top Languages" title="Top Languages">
 </p>
 
 <p align="center">
@@ -42,4 +42,5 @@
   <a href="https://github.com/0l1v3rr/bug-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0l1v3rr&repo=bug-tracker&border_color=30363d&bg_color=0d1117&title_color=15f3ec&show_owner=true&text_color=8b949e" alt="Readme Card" title="Readme Card"></a>&nbsp;&nbsp;
   <a href="https://github.com/0l1v3rr/port-scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0l1v3rr&repo=port-scanner&border_color=30363d&bg_color=0d1117&title_color=15f3ec&show_owner=true&text_color=8b949e" alt="Readme Card" title="Readme Card"></a>&nbsp;&nbsp;
   <a href="https://github.com/0l1v3rr/cli-file-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0l1v3rr&repo=cli-file-manager&border_color=30363d&bg_color=0d1117&title_color=15f3ec&show_owner=true&text_color=8b949e" alt="Readme Card" title="Readme Card"></a>&nbsp;&nbsp;
+  <a href="https://github.com/0l1v3rr/go-search"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0l1v3rr&repo=go-search&border_color=30363d&bg_color=0d1117&title_color=15f3ec&show_owner=true&text_color=8b949e" alt="Readme Card" title="Readme Card"></a>&nbsp;&nbsp;
 </p>
