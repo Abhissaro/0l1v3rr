@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=0l1v3rr" alt="visitors" title="visitors">
   <img src="https://img.shields.io/badge/Olivér%236178-%23586aea.svg?logo=discord&logoColor=white" alt="Discord" title="Discord">
+  <a href="https://www.linkedin.com/in/0l1v3rr/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </p>
 
 <hr>
