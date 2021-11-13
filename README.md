@@ -1,4 +1,4 @@
-# <p align="center">`Hi, I'm Olivér! 👋` </p>
+# <p align="center">Hi, I'm Olivér! 👋 </p>
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=0l1v3rr" alt="visitors" title="visitors">
   <img src="https://img.shields.io/badge/Olivér%236178-%23586aea.svg?logo=discord&logoColor=white" alt="Discord" title="Discord">
@@ -25,23 +25,11 @@
 ## <p align="center">👑 GitHub Stats 👑</p>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&langs_count=10&title_color=15f3ec&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2" alt="Top Languages" title="Top Languages">
+  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=0l1v3rr&&show_icons=true&title_color=15f3ec&icon_color=15f3ec&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Stats" title="Stats">
+  &nbsp;&nbsp;&nbsp;
+  <img width="460px" src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=0D1117&border=30363d&stroke=30363d&dates=8b949e&sideNums=15f3ec&sideLabels=15f3ec&currStreakNum=deac2f" alt="GitHub Streak" title="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0l1v3rr&&show_icons=true&title_color=15f3ec&icon_color=15f3ec&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Stats" title="Stats">
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=0D1117&border=30363d&stroke=30363d&dates=8b949e&sideNums=15f3ec&sideLabels=15f3ec&currStreakNum=deac2f" alt="GitHub Streak" title="GitHub Streak">
-</p>
-
-<hr>
-
-## <p align="center">📌 Open Source Projects 📌</p>
-<p align="center">
-  <a href="https://github.com/0l1v3rr/bug-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0l1v3rr&repo=bug-tracker&border_color=30363d&bg_color=0d1117&title_color=15f3ec&show_owner=true&text_color=8b949e" alt="Readme Card" title="Readme Card"></a>&nbsp;&nbsp;
-  <a href="https://github.com/0l1v3rr/port-scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0l1v3rr&repo=port-scanner&border_color=30363d&bg_color=0d1117&title_color=15f3ec&show_owner=true&text_color=8b949e" alt="Readme Card" title="Readme Card"></a>&nbsp;&nbsp;
-  <a href="https://github.com/0l1v3rr/cli-file-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0l1v3rr&repo=cli-file-manager&border_color=30363d&bg_color=0d1117&title_color=15f3ec&show_owner=true&text_color=8b949e" alt="Readme Card" title="Readme Card"></a>&nbsp;&nbsp;
-  <a href="https://github.com/0l1v3rr/go-search"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0l1v3rr&repo=go-search&border_color=30363d&bg_color=0d1117&title_color=15f3ec&show_owner=true&text_color=8b949e" alt="Readme Card" title="Readme Card"></a>&nbsp;&nbsp;
+  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&langs_count=10&title_color=15f3ec&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2" alt="Top Languages" title="Top Languages">
 </p>
