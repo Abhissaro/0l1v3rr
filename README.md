@@ -35,7 +35,7 @@
 
 <hr>
 
-## <p align="center">🗺️ Some of my Projects 🗺️</p>
+## <p align="center">🗺️ Mentionable Projects 🗺️</p>
 <div align="center">
   
   | Name | Last Commit | Stars | Top Language |
