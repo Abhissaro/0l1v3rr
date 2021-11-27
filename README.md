@@ -48,5 +48,6 @@
   | <a href="https://github.com/0l1v3rr/wordlist-generator">📰 Wordlist Generator</a> | <img src="https://img.shields.io/github/last-commit/0l1v3rr/wordlist-generator"> | <img src="https://img.shields.io/github/stars/0l1v3rr/wordlist-generator?color=important"> | <img src="https://img.shields.io/github/languages/top/0l1v3rr/wordlist-generator"> |
   | <a href="https://github.com/0l1v3rr/sudoku-solver">🤓 Sudoku Solver</a> | <img src="https://img.shields.io/github/last-commit/0l1v3rr/sudoku-solver"> | <img src="https://img.shields.io/github/stars/0l1v3rr/sudoku-solver?color=important"> | <img src="https://img.shields.io/github/languages/top/0l1v3rr/sudoku-solver"> |
   | <a href="https://github.com/0l1v3rr/go-search">🔎 Go Search</a> | <img src="https://img.shields.io/github/last-commit/0l1v3rr/go-search"> | <img src="https://img.shields.io/github/stars/0l1v3rr/go-search?color=important"> | <img src="https://img.shields.io/github/languages/top/0l1v3rr/go-search"> |
+  | <a href="https://github.com/0l1v3rr/bug-tracker">📚 SQL Tutorial</a> | <img src="https://img.shields.io/github/last-commit/0l1v3rr/sql-for-beginners"> | <img src="https://img.shields.io/github/stars/0l1v3rr/sql-for-beginners?color=important"> | <img src="https://img.shields.io/github/languages/top/0l1v3rr/sql-for-beginners"> |
   
 </div>
