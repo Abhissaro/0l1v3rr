@@ -9,14 +9,14 @@
 
 ## <p align="center">👤 About Me 👤</p>
 ```java
-package hu.oliverr.aboutme
+package hu.oliverr.aboutme;
 
 public class AboutMe {
 
   public String name = "Olivér";
   public String[] languages = { "Java", "Go", "C#", "JavaScript", "HTML", "CSS", "SQL" };
   public String[] learning = { "C", "Ethical Hacking" };
-  public String[] someOfMyProjects = {
+  public static String[] someOfMyProjects = {
     "github.com/0l1v3rr/jfmt",
     "github.com/0l1v3rr/subnet-calculator",
     "github.com/0l1v3rr/port-scanner",
@@ -29,7 +29,7 @@ public class AboutMe {
   };
 
   public static void hi() {
-    System.out.println("Hi! Welcome to my GitHub profile!");
+    System.out.println("\nHi! Welcome to my GitHub profile!");
     System.out.println("I'm Olivér and I hope you like some of my projects. :)");
   }
   
