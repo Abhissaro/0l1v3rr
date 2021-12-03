@@ -7,44 +7,6 @@
 
 <hr>
 
-## <p align="center">👤 About Me 👤</p>
-```java
-package hu.oliverr.aboutme;
-
-public class AboutMe {
-
-  public String name = "Olivér";
-  public String[] languages = { "Java", "Go", "C#", "JavaScript", "HTML", "CSS", "SQL" };
-  public String[] learning = { "C", "Ethical Hacking" };
-  public static String[] someOfMyProjects = {
-    "github.com/0l1v3rr/jfmt",
-    "github.com/0l1v3rr/subnet-calculator",
-    "github.com/0l1v3rr/port-scanner",
-    "github.com/0l1v3rr/cli-file-manager",
-    "github.com/0l1v3rr/bug-tracker",
-    "github.com/0l1v3rr/discordjs-simple-moderation",
-    "github.com/0l1v3rr/wordlist-generator",
-    "github.com/0l1v3rr/go-search",
-    "github.com/0l1v3rr/sudoku-solver"
-  };
-
-  public static void hi() {
-    System.out.println("\nHi! Welcome to my GitHub profile!");
-    System.out.println("I'm Olivér and I hope you like some of my projects. :)");
-  }
-  
-  public static void main(String[] args) {
-    for(String project : someOfMyProjects) {
-      System.out.println(project);
-    }
-    hi();
-  }
-  
-}
-```
-
-<hr>
-
 ## <p align="center">⚔️ Languages ⚔️</p>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java">
@@ -70,3 +32,40 @@ public class AboutMe {
 <p align="center">
   <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&langs_count=10&title_color=59A5FA&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2" alt="Top Languages" title="Top Languages">
 </p>
+
+<hr>
+
+## <p align="center">👤 About Me 👤</p>
+```java
+package hu.oliverr.aboutme;
+
+public class AboutMe implements Greeting {
+
+  public String[] learning = { "C", "Ethical Hacking" };
+  public static String[] someOfMyProjects = {
+    "github.com/0l1v3rr/jfmt",
+    "github.com/0l1v3rr/subnet-calculator",
+    "github.com/0l1v3rr/port-scanner",
+    "github.com/0l1v3rr/cli-file-manager",
+    "github.com/0l1v3rr/bug-tracker",
+    "github.com/0l1v3rr/discordjs-simple-moderation",
+    "github.com/0l1v3rr/wordlist-generator",
+    "github.com/0l1v3rr/go-search",
+    "github.com/0l1v3rr/sudoku-solver"
+  };
+
+  @Override
+  public static void hi() {
+    System.out.println("Hi! Welcome to my GitHub profile!");
+    System.out.println("I'm Olivér and I hope you like some of my projects. :)");
+  }
+  
+  public static void main(String[] args) {
+    for(String project : someOfMyProjects) {
+      System.out.println(project);
+    }
+    hi();
+  }
+  
+}
+```
