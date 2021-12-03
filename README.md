@@ -36,36 +36,34 @@
 <hr>
 
 ## <p align="center">👤 About Me 👤</p>
-```java
-package hu.oliverr.aboutme;
+```rust
+use std::io::{stdin,stdout,Write};
 
-public class AboutMe implements Greeting {
+fn main() {
+    let _learning: [&str; 2] = ["C", "Ethical Hacking"];
+    let projects: [&str; 9] = [
+        "github.com/0l1v3rr/jfmt",
+        "github.com/0l1v3rr/subnet-calculator",
+        "github.com/0l1v3rr/port-scanner",
+        "github.com/0l1v3rr/cli-file-manager",
+        "github.com/0l1v3rr/bug-tracker",
+        "github.com/0l1v3rr/discordjs-simple-moderation",
+        "github.com/0l1v3rr/wordlist-generator",
+        "github.com/0l1v3rr/go-search",
+        "github.com/0l1v3rr/sudoku-solver"
+    ];
 
-  public String[] learning = { "C", "Ethical Hacking" };
-  public static String[] someOfMyProjects = {
-    "github.com/0l1v3rr/jfmt",
-    "github.com/0l1v3rr/subnet-calculator",
-    "github.com/0l1v3rr/port-scanner",
-    "github.com/0l1v3rr/cli-file-manager",
-    "github.com/0l1v3rr/bug-tracker",
-    "github.com/0l1v3rr/discordjs-simple-moderation",
-    "github.com/0l1v3rr/wordlist-generator",
-    "github.com/0l1v3rr/go-search",
-    "github.com/0l1v3rr/sudoku-solver"
-  };
+    let mut your_name = String::new();
+    print!("What's your name?: ");
+    let _ = stdout().flush();
+    stdin().read_line(&mut your_name).expect("Please enter your name.");
 
-  @Override
-  public static void hi() {
-    System.out.println("Hi! Welcome to my GitHub profile!");
-    System.out.println("I'm Olivér and I hope you like some of my projects. :)");
-  }
-  
-  public static void main(String[] args) {
-    for(String project : someOfMyProjects) {
-      System.out.println(project);
-    }
-    hi();
-  }
-  
+    hi(&your_name);
+    println!("Some of my projects: {:?}", projects);
+}
+
+fn hi(name: &str) {
+    println!("Hi, {0}! Welcome to my GitHub profile!", name);
+    println!("I'm Olivér and I hope you like some of my projects. :)");
 }
 ```
