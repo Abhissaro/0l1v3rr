@@ -1,7 +1,7 @@
 # <p align="center">Hi, I'm Olivér! 👋 </p>
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=0l1v3rr" alt="visitors" title="visitors">
-  <img src="https://img.shields.io/badge/Olivér%236178-%23586aea.svg?logo=discord&logoColor=white" alt="Discord" title="Discord">
+  <img src="https://img.shields.io/github/followers/0l1v3rr?logo=GitHub&logoColor=white" alt="GitHub Followers" title="GitHub Followers">
   <a href="https://www.linkedin.com/in/0l1v3rr/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -9,14 +9,16 @@
 
 ## <p align="center">⚔️ Languages ⚔️</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" title="Go">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#">
-  <img src="https://img.shields.io/badge/php-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP">
-  <img src="https://img.shields.io/badge/html5-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
-  <img src="https://img.shields.io/badge/css3-%23563D7C.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
-  <img src="https://img.shields.io/badge/sql-%2300618A.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" title="Go">
+  <img src="https://img.shields.io/badge/Rust-dd9871?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#">
+  <img src="https://img.shields.io/badge/C-%23555555.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C"><br>
+  <img src="https://img.shields.io/badge/HTML-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
+  <img src="https://img.shields.io/badge/CSS-%23563D7C.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
+  <img src="https://img.shields.io/badge/SQL-%2300618A.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL">
+  <img src="https://img.shields.io/badge/PHP-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript">
 </p>
 
 <hr>
