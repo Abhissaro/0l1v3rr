@@ -7,7 +7,7 @@
 
 <hr>
 
-## <p align="center">⚔️ Languages ⚔️</p>
+## <p align="center">⚔️ Languages I worked with ⚔️</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" title="Go">
