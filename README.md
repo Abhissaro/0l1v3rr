@@ -32,15 +32,3 @@
   &nbsp;&nbsp;&nbsp;
   <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=0D1117&border=30363d&stroke=30363d&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak" title="GitHub Streak">
 </p>
-
-<div align="center">
-
-<details>
-  <summary>Click here for a random joke</summary>
-  <br>
-  
-  <p>
-    <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&borderColor=%2330363d&qColor=%2359A5FA&aColor=%23ef8065&textColor=%23C7D4E2&codeColor=%23FF7B72">
-  </p>
-</details>
-</div>
