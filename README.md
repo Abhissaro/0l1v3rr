@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/0l1v3rr" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=0l1v3rr" alt="visitors" title="visitors"></a>
   <a href="https://github.com/0l1v3rr?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/0l1v3rr?logo=GitHub&logoColor=white" alt="GitHub Followers" title="GitHub Followers"></a>
+  <img src="https://img.shields.io/badge/Olivér%236178-%235969DC.svg?logo=Discord&logoColor=white" alt="Discord" title="Discord">
 </p>
 
 <hr>
