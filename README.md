@@ -11,9 +11,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" title="Go">
-  <img src="https://img.shields.io/badge/Rust-dd9871?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#">
-  <img src="https://img.shields.io/badge/SQL-%2300618A.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL"><br>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP">
+  <img src="https://img.shields.io/badge/SQL-%2300618A.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#"><br>
   <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" title="Svelte">
   <img src="https://img.shields.io/badge/HTML-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
   <img src="https://img.shields.io/badge/CSS-%23563D7C.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
