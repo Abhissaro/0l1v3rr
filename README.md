@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/typescript-%232D79C7.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript">
   <img src="https://img.shields.io/badge/SQL-%230072C7.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL">
   <img src="https://img.shields.io/badge/node.js-2E9949?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" title="NodeJS"><br>
-  <img src="https://img.shields.io/badge/Svelte-%23F23B00.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" title="Svelte">
+  <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" title="Svelte">
   <img src="https://img.shields.io/badge/HTML-%23E54C21.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
   <img src="https://img.shields.io/badge/CSS-%23563D7C.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%2338362C.svg?style=for-the-badge&logo=javascript&logoColor=%23F7E018" alt="JavaScript" title="JavaScript">
