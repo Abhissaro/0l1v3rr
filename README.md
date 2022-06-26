@@ -6,15 +6,15 @@
 <hr>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23F29111.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java">
+  <img src="https://img.shields.io/badge/java-%23F29111.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java">
   <img src="https://img.shields.io/badge/Go-%2300ACD7.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" title="Go">
+  <br>
+  <img src="https://img.shields.io/badge/spring-%235FB92E.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" title="Spring">
+  <img src="https://img.shields.io/badge/spring_boot-%236CB33E.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" title="Spring Boot">
+  <br>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" title="React">
   <img src="https://img.shields.io/badge/typescript-%232D79C7.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript">
-  <img src="https://img.shields.io/badge/SQL-%230072C7.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL">
-  <img src="https://img.shields.io/badge/node.js-2E9949?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" title="NodeJS"><br>
-  <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" title="Svelte">
-  <img src="https://img.shields.io/badge/HTML-%23E54C21.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
-  <img src="https://img.shields.io/badge/CSS-%23563D7C.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%2338362C.svg?style=for-the-badge&logo=javascript&logoColor=%23F7E018" alt="JavaScript" title="JavaScript">
+  <img src="https://img.shields.io/badge/tailwind-%230BB6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" title="Tailwind">
 </p>
 
 <p align="center">
