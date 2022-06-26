@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23F29111.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java">
   <img src="https://img.shields.io/badge/Go-%2300ACD7.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" title="Go">
-  <br>
   <img src="https://img.shields.io/badge/spring-%235FB92E.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" title="Spring">
   <img src="https://img.shields.io/badge/spring_boot-%236CB33E.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" title="Spring Boot">
   <br>
@@ -18,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&langs_count=10&title_color=59A5FA&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2" alt="Top Languages" title="Top Languages">
+  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&langs_count=8&title_color=59A5FA&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2&hide=php,html,css,hack,makefile,batchfile,shell" alt="Top Languages" title="Top Languages">
 </p>
 
 <hr>
