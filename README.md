@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://github.com/0l1v3rr" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=0l1v3rr" alt="visitors" title="visitors"></a>
   <a href="https://github.com/0l1v3rr?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/0l1v3rr?logo=GitHub&logoColor=white&color=FF3E00" alt="GitHub Followers" title="GitHub Followers"></a>
-  <br>
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/java-%2310151C.svg?style=for-the-badge&logo=java&logoColor=5283A2" alt="Java" title="Java">
   <img src="https://img.shields.io/badge/Go-%2310151C.svg?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" title="Go">
   <img src="https://img.shields.io/badge/typescript-%2310151C.svg?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript" title="TypeScript">
