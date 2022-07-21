@@ -17,7 +17,7 @@
     <td></td>
   </tr>
   
-  <tr>
+  <tr align="center">
     <td>
       <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&langs_count=8&title_color=59A5FA&icon_color=3498db&text_color=777&border_color=00000000&bg_color=00000000&layout=compact&color=C7D4E2&hide=php,html,css,hack,batchfile,shell,makefile" alt="Top Languages" title="Top Languages">
     </td>
