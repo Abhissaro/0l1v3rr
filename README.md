@@ -2,7 +2,7 @@
   <tr align="center">
     <td>
       <a href="https://github.com/0l1v3rr?tab=followers" target="_blank">
-        <img src="https://img.shields.io/github/followers/0l1v3rr?logo=GitHub&logoColor=white&color=FF3E00&label=Followers" alt="GitHub Followers" title="GitHub Followers">
+        <img src="https://img.shields.io/github/followers/0l1v3rr?logo=GitHub&logoColor=white&color=0E79B0&label=Followers" alt="GitHub Followers" title="GitHub Followers">
       </a>
       <a href="https://github.com/0l1v3rr" target="_blank">
         <img src="https://visitor-badge.glitch.me/badge?page_id=0l1v3rr" alt="visitors" title="visitors">
