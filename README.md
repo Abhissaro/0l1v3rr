@@ -33,9 +33,9 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&dates=777&sideNums=0969DA&sideLabels=0969DA&currStreakNum=FD8C73&ring=FD8C73&fire=FD8C73&currStreakLabel=FD8C73"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&dates=777&sideNums=0969DA&sideLabels=0969DA&currStreakNum=24292F&ring=FD8C73&fire=FD8C73&currStreakLabel=FD8C73"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&dates=777&sideNums=0969DA&sideLabels=0969DA&currStreakNum=FD8C73&ring=FD8C73&fire=FD8C73&currStreakLabel=FD8C73" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&dates=777&sideNums=0969DA&sideLabels=0969DA&currStreakNum=24292F&ring=FD8C73&fire=FD8C73&currStreakLabel=FD8C73" />
   </picture>
 </p>
