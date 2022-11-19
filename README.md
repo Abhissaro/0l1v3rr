@@ -1,46 +1,41 @@
 <table width="100%" align="center">
-  <tr align="center">
-    <td>
-      <a href="https://github.com/0l1v3rr?tab=followers" target="_blank">
-        <img src="https://img.shields.io/github/followers/0l1v3rr?logo=GitHub&logoColor=white&color=0E79B0&label=Followers" alt="GitHub Followers" title="GitHub Followers">
-      </a>
-      <a href="https://github.com/0l1v3rr" target="_blank">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=0l1v3rr" alt="visitors" title="visitors">
-      </a>
-      <a href="https://www.linkedin.com/in/0l1v3rr/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" title="LikedIn">
-      </a>
+  <tr align="center" width="500px">
+    <td width="500px">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/tailwind-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%230BB6D4" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/spring_boot-%2320232a.svg?style=for-the-badge&logo=spring-boot&logoColor=%236CB33E&" alt="Spring Boot" />
+      <br />
+      <img src="https://img.shields.io/badge/go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8" alt="Golang" />
+      <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%235283A2" alt="Java" />
+      <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%232D79C7" alt="TypeScript" />
     </td>
   </tr>
-  
-  <tr>
-    <td></td>
-  </tr>
-  
-  <tr align="center">
-    <td>
-      <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1v3rr&langs_count=8&title_color=59A5FA&icon_color=3498db&text_color=777&border_color=00000000&bg_color=00000000&layout=compact&color=C7D4E2&hide=php,html,css,hack,batchfile,shell,makefile" alt="Top Languages" title="Top Languages">
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-  </tr>
-  
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=0l1v3rr&show_icons=true&title_color=59A5FA&icon_color=ef8065&text_color=777&border_color=00000000&bg_color=00000000&count_private=true&include_all_commits=true" alt="Stats" title="Stats">
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-  </tr>
-  
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=00000000&border=00000000&stroke=30363d&dates=777&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=777&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak" title="GitHub Streak">
-    </td>
-  </tr>
-  
 </table>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=0l1v3rr&show_icons=true&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&border_color=30363D&bg_color=0D1117&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=0l1v3rr&show_icons=true&title_color=0969DA&icon_color=FD8C73&text_color=24292F&border_color=D0D7DE&bg_color=FFFFFF&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=0l1v3rr&show_icons=true&title_color=0969DA&icon_color=FD8C73&text_color=24292F&border_color=D0D7DE&bg_color=FFFFFF&count_private=true&include_all_commits=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=0D1117&border=30363D&stroke=30363D&dates=777&sideNums=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&ring=F78166&fire=F78166&currStreakLabel=F78166"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&dates=777&sideNums=0969DA&sideLabels=0969DA&currStreakNum=FD8C73&ring=FD8C73&fire=FD8C73&currStreakLabel=FD8C73"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&dates=777&sideNums=0969DA&sideLabels=0969DA&currStreakNum=FD8C73&ring=FD8C73&fire=FD8C73&currStreakLabel=FD8C73" />
+  </picture>
+</p>
