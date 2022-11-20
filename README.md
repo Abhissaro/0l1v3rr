@@ -15,7 +15,7 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=0l1v3rr&show_icons=true&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&border_color=30363D&bg_color=0D1117&count_private=true&include_all_commits=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=0l1v3rr&show_icons=true&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&border_color=30363D&bg_color=00000000&count_private=true&include_all_commits=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -29,7 +29,7 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=0D1117&border=30363D&stroke=30363D&dates=777&sideNums=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&ring=F78166&fire=F78166&currStreakLabel=F78166"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0l1v3rr&background=00000000&border=30363D&stroke=30363D&dates=777&sideNums=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&ring=F78166&fire=F78166&currStreakLabel=F78166"
       media="(prefers-color-scheme: dark)"
     />
     <source
