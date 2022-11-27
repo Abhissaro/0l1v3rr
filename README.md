@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/0l1v3rr/github-readme-tech-stack">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=github_dark&lineCount=2&line1=react,react,auto;tailwind-css,tailwind,auto;spring-boot,spring_boot,auto&line2=go,go,auto;typescript,typescript,auto;java,java,auto&title=Olivér%27s%20Tech%20Stack" alt="Olivér's Tech Stack">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=github_dark&lineCount=2&title=Olivér%27s%20Tech%20Stack&line1=react,react,auto;tailwind-css,tailwind,auto;typescript,typescript,auto&line2=spring,spring,auto;spring-boot,spring_boot,auto;java,java,auto" alt="Olivér's Tech Stack">
   </a>
 </p>
 
