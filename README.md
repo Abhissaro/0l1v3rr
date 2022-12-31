@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/0l1v3rr/github-readme-tech-stack">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=ayu&lineCount=2&title=Tech%20Stack&line2=react,react,00B0FF;tailwind-css,tailwind,00B0FF;typescript,typescript,00B0FF&line1=spring,spring,00B0FF;spring-boot,spring_boot,00B0FF;go,go,00B0FF&titleColor=%23FF4747&badge=%2310151F" alt="Tech Stack">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=0l1v3rr&lineCount=2&title=Tech%20Stack&line2=react,react,00B0FF;tailwind-css,tailwind,00B0FF;typescript,typescript,00B0FF&line1=spring,spring,00B0FF;spring-boot,spring_boot,00B0FF;go,go,00B0FF" alt="Tech Stack">
   </a>
 </p>
 
